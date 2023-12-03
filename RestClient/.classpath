@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FinancialAppLP"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-19">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/vascosantos/Universidade/01_Licenciatura_EI/3º_semestre/04_Laboratorio_de_Programacao/json/gson-2.10.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/vascosantos/Universidade/01_Licenciatura_EI/3º_semestre/04_Laboratorio_de_Programacao/eclipseLink_2.7.12/eclipselink/jlib/eclipselink.jar"/>
+	<classpathentry kind="lib" path="/Users/vascosantos/Universidade/01_Licenciatura_EI/3º_semestre/04_Laboratorio_de_Programacao/eclipseLink_2.7.12/eclipselink/jlib/jpa/jakarta.persistence_2.2.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
